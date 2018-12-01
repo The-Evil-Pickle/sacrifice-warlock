@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\People\PeopleList.cs" />
     <Compile Include="Assets\Scripts\People\PersonData.cs" />
+    <Compile Include="Assets\Scripts\People\PersonPanel.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Users/Tobias/Documents/Unity/Sacrifice-Warlock/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
